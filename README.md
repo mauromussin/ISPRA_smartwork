@@ -6,7 +6,9 @@ Sondaggio smartworking e covid, dati ed elaborazioni
 
 # Dati dei fattori di emissione
 > fe_CO2.csv
+
 > fe_NOX.csv
+
 > fe_PM10.csv
 
 # Dati elaborati
@@ -18,6 +20,7 @@ La colonna T contiene il dato in t.
 # Playbook Jupyter con elaborazioni
 Il playbook
 > Sondaggio Smartworking.ipynb
+
 contiene le elaborazioni effettuate
 
 # Licenza
